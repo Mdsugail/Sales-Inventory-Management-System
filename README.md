@@ -1,5 +1,10 @@
 # Sales & Inventory Management System
-![Screenshot 2025-03-12 102126](https://github.com/user-attachments/assets/34e7a75a-bde0-418c-9950-5546da9a2cca)
+| ![Screenshot 1](https://github.com/user-attachments/assets/7b6d8ba4-13bc-4aa1-9578-5cee3f19951b) | ![Screenshot 2](https://github.com/user-attachments/assets/da9e5fa9-5600-4241-adcc-3af4a570a536) |
+|--------------------------------------|--------------------------------------|
+| ![Screenshot 3](https://github.com/user-attachments/assets/4c532d68-5bfb-45e8-a531-6315d8724bbd) | ![Screenshot 4](https://github.com/user-attachments/assets/6845b5c3-2a25-4f7a-ad27-b240a3c8c8b7) |
+
+
+
 
 ## Project Documentation
 
